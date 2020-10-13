@@ -6,7 +6,8 @@
 <title>Welcome </title>
 <body style="background-image: url('scary.png');">
 <p><font color= "white">
-
+<button type="button"
+onclick="document.getElementById('demo'). style.fontsize='35px'">Spookytober!booo</button>
 <h1 style="background-color:black ;">Loanny's website </h1>
 	<p style="background-color:green;"> This is just a little experiment,so we are all over the place :b, anyways im bored i dont know how to do this</p>
    <a href="https://www.youtube.com/watch?v=faqmNf_fZlE&t=1s">HunterxHunter</a> 
@@ -17,6 +18,12 @@
 
      <img src="bubba.jpg" style="width:500px;height:700px;"> 
     
+
+     
+
+
+		</body>
+</html>
 
      
 
